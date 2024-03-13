@@ -1,0 +1,828 @@
+[
+    {
+        "title": "SUP-туры и аренда SUP-бордов от Sup Sport",
+        "address": "микрорайон Аксай-3А, 51",
+        "category": "Прокат снаряжения",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/sup-tury-i-arenda-sup-bordov-sup-sport-almaty"
+    },
+    {
+        "title": "Marmelad karaoke bar",
+        "address": "Алматы, проспект Назарбаева, 176",
+        "category": "Бары",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/marmelad"
+    },
+    {
+        "title": ".GBar",
+        "address": "​проспект Гагарина, 233Е",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/gbar"
+    },
+    {
+        "title": "Летний Дворик",
+        "address": "ул. Розыбакиева 31/1 (уг.ул.Шевченко)",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/letniy-dvorik-1"
+    },
+    {
+        "title": "Mandarin SPA",
+        "address": "ул. Розыбакиева, 285А",
+        "category": "SPA-центры",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/mandarin-spa"
+    },
+    {
+        "title": "Парк развлечений «Аватария» (парк «Волшебный лес»)",
+        "address": "ТД Жибек Жолы, пр. Сейфуллина, 9А (3 этаж)",
+        "category": "Для детей",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/park-razvlecheniy-avatariya-park-volshebnyy-les"
+    },
+    {
+        "title": "Кофейня Tary",
+        "address": "",
+        "category": "Кофейни",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/kofeynya-tary"
+    },
+    {
+        "title": "Bike park на «Шымбулаке»",
+        "address": "Горный курорт «Шымбулак», ул. Керей-Жанибек Хандар, 640",
+        "category": "Активный отдых",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/bike-park-na-shymbulake"
+    },
+    {
+        "title": "Кофейня Coffeebook",
+        "address": "Казахстан, Алматы, Наурызбайский район, микрорайон Шугыла, 340/4к10",
+        "category": "Кофейни",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/kofeynya-coffeebook"
+    },
+    {
+        "title": "Taiyaki Coffee",
+        "address": "ул. Ауэзова, 130",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/taiyaki-coffee"
+    },
+    {
+        "title": "Глэмпинг на Первомайских прудах",
+        "address": "Казахстан, Алматинская область, Илийский район, Первомайские пруды",
+        "category": "Загородный отдых",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/glemping-na-pervomayskih-prudah"
+    },
+    {
+        "title": "Evrikum City",
+        "address": "РТЦ Forum, ​пр. Сейфуллина, 617, ​5 этаж",
+        "category": "Для детей",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/evrikum-city"
+    },
+    {
+        "title": "Sail Coworking",
+        "address": "пр. ​Гагарина, 124",
+        "category": "Коворкинги",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/sail-coworking"
+    },
+    {
+        "title": "Кафе Meat & beer Redley`s",
+        "address": "Казахстан, Алматы, проспект Достык, 47",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/kafe-meat-beer-redley-s"
+    },
+    {
+        "title": "Рестобар Bastet",
+        "address": "ул. Шевченко, 100",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/restobar-bastet-1"
+    },
+    {
+        "title": "Шишка Premium",
+        "address": "пр. Гагарина, 124",
+        "category": "Ночная жизнь",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/shishka-premium-4"
+    },
+    {
+        "title": "Coffee Block",
+        "address": "пр. Аль-Фараби, 21/6, 6 блок",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/coffee-block"
+    },
+    {
+        "title": "Peaches",
+        "address": "ул. ​Сатпаева, 6",
+        "category": "Кофейни",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/peaches"
+    },
+    {
+        "title": "Центр плова и шашлыка",
+        "address": "Казахстан, Алматы, улица Маркова, 28",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/centr-plova-i-shashlyka"
+    },
+    {
+        "title": "Ресторан «Любовь и голуби»",
+        "address": "Казахстан, Алматы, улица Кажымукана, 37",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/restoran-lyubov-i-golubi"
+    },
+    {
+        "title": "City Beach Club Almaty",
+        "address": "ул. ​Жансугурова, 262/2",
+        "category": "Активный отдых",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/city-beach-club-almaty"
+    },
+    {
+        "title": "Casserole",
+        "address": "Restopark, пр. Сакена Сейфуллина, 617",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/casserole"
+    },
+    {
+        "title": "Favor City View",
+        "address": "ул. Жамакаева, 256А",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/favor-city-view"
+    },
+    {
+        "title": "Original Bar",
+        "address": "проспект Аль-Фараби, 140А/3",
+        "category": "Красота и здоровье",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/original-bar"
+    },
+    {
+        "title": "Пейнтбольный клуб Dot",
+        "address": "Казахстан, Алматы, улица Кенесары Хана, 4А",
+        "category": "Активный отдых",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/pejntbolnyj-klub-dot"
+    },
+    {
+        "title": "Онлайн-лекция «Этнопсихология - предмет, методы, основные понятия и практическое значение»",
+        "address": "29 января в 22:00",
+        "category": "Образование",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/event/onlajn-lektsija-etnopsihologija-predmet-metody-osnovnye-ponjatija-i-prakticheskoe-znachenie"
+    },
+    {
+        "title": "Автокинотеатр Aspan Cinema",
+        "address": "Казахстан, Алматы, улица Тимирязева, 42к15",
+        "category": "Кинотеатры",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/avtokinoteatr-aspan-cinema"
+    },
+    {
+        "title": "Паб «Скандалистъ»",
+        "address": "ул. Богенбай батыра 128",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/pab-skandalist"
+    },
+    {
+        "title": "Фитнес-клуб ProFitnessAMG",
+        "address": "ул. Манаса, 51",
+        "category": "Красота и здоровье",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/fitnes-klub-profitnessamg"
+    },
+    {
+        "title": "Ginger Sushi Loft Cafe",
+        "address": "ул. Жандарбекова, 128",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/ginger-sushi-loft-cafe"
+    },
+    {
+        "title": "ТЦ Esentai Mall",
+        "address": "Esentai Mall, пр. Аль-Фараби, 77/8",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/tts-esentai-mall"
+    },
+    {
+        "title": "Ресторан True Cost",
+        "address": "8-й микрорайон, 37/1",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/restoran-true-cost"
+    },
+    {
+        "title": "Горы Актау",
+        "address": "ГНПП Алтын-Эмель, Кербулакский район, Алматинская область",
+        "category": "Загородный отдых",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/gory-aktau-natsionalnyj-park-altyn-emel"
+    },
+    {
+        "title": "Баня Самовар",
+        "address": "ул. Ашимова 209",
+        "category": "Красота и здоровье",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/banya-samovar"
+    },
+    {
+        "title": "ChinaROOM",
+        "address": "ул. Богенбай батыра 115",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/chinaroom"
+    },
+    {
+        "title": "Восточный двор",
+        "address": "мкр. Баян аул, ул. Яссауи, 35",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/vostochnyj-dvor"
+    },
+    {
+        "title": "Детский Плавательный Клуб \"Рыбки\"",
+        "address": "Казахстан, Алматы, бульвар Бухар Жырау, 72, подъезд 1",
+        "category": "Школы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/detskij-plavatelnyj-klub-rybki"
+    },
+    {
+        "title": "Fidelity «Бухар Жырау»",
+        "address": "бульвар Бухар Жырау, 27/5",
+        "category": "Красота и здоровье",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/fidelity-buhar-zhyrau"
+    },
+    {
+        "title": "Этно-аул «Гунны»",
+        "address": "​Солдатское ущелье, 5, с. Рыскулово, Алматинская область",
+        "category": "Загородный отдых",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/etno-auyl-gunny"
+    },
+    {
+        "title": "ULAN Hot Spring Resort",
+        "address": "Уйгурский район, трасса Чунджа-Кольжат, 51 км.",
+        "category": "Загородный отдых",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/ulan-hot-spring-resort"
+    },
+    {
+        "title": "Конный клуб Chamberlain Country Club",
+        "address": "мкр. Ғаламат, 169",
+        "category": "Школы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/konnyj-klub-chamberlain-country-club"
+    },
+    {
+        "title": "Коворкинг-центр для мам детей с особыми потребностями",
+        "address": "Территория БЦ «Парасат», ул. Макатаева 137",
+        "category": "Школы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/kovorking-tsentr-dlya-mam-detej-s-osobymi-potrebnostyami"
+    },
+    {
+        "title": "Whoopie Cakes в \"Мирас\"",
+        "address": "мкр. Мирас, 128",
+        "category": "Кондитерская",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/whoopie-cakes-v-miras"
+    },
+    {
+        "title": "Doner Kz",
+        "address": "Doner Kz, ул. Жарокова, 1",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/doner-kz"
+    },
+    {
+        "title": "Family tennis club",
+        "address": "Талгарский тракт, 6-й км. (от трассы 800 метров вверх, 3 минуты от восточной обьездной дороги), район Магнума.",
+        "category": "Школы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/family-tennis-club"
+    },
+    {
+        "title": "FREDO",
+        "address": "",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/fredo"
+    },
+    {
+        "title": "Семейный ресторан \"Ванильное небо\"",
+        "address": "ул. Маркова, 61/1 (уг. ул. Попова)",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/semejnyj-restoran-vanilnoe-nebo"
+    },
+    {
+        "title": "Семейный клуб Timatey",
+        "address": "Казахстан, Алматы, улица Жумалиева, 18",
+        "category": "Аквапарки и бассейны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/semejnyj-klub-timatey"
+    },
+    {
+        "title": "Кафе RemiZovka",
+        "address": "ул. Байшешек 2 Б",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/kafe-remizovka"
+    },
+    {
+        "title": "Кондитерская студия Dandy pastry studio",
+        "address": "ул. Байсеитова, 40 уг. ул. Сатпаева",
+        "category": "Школы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/konditerskaya-studiya-dandy-pastry-studio"
+    },
+    {
+        "title": "Сеть тренажерных залов Bosstan Gym",
+        "address": "Каблукова 38 А (MEGA Alma-Ata)",
+        "category": "Красота и здоровье",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/set-trenazhernyh-zalov-bosstan-gym"
+    },
+    {
+        "title": "Barbeque by Bekir Chef",
+        "address": "ул. Масанчи, 79",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/barbeque-by-bekir-chef"
+    },
+    {
+        "title": "RestoBar 1958",
+        "address": "пр. Абылай Хана 121, уг. ул. Кабанбай Батыра",
+        "category": "Бары",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/restobar-1958"
+    },
+    {
+        "title": "Ball Room",
+        "address": "пр. Райымбека 298а",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/ball-room"
+    },
+    {
+        "title": "Есть-Пить",
+        "address": "ул. Каирбекова, 35а",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/est-pit"
+    },
+    {
+        "title": "Art-Апрель Школа-студия дизайна",
+        "address": "пр. Аль-Фараби 21/4, блок 2, 1 эт., оф.2",
+        "category": "Школы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/art-aprel-shkola-studiya-dizajna"
+    },
+    {
+        "title": "Алматы Менеджмент Университет",
+        "address": "Almaty Management University, ул. Розыбакиева 227",
+        "category": "Школы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/almau-2"
+    },
+    {
+        "title": "Tutarai",
+        "address": "пр. Абая 101 А (обратная сторона Центрального Дворца Бракосочетания)",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/tutarai"
+    },
+    {
+        "title": "Shisha GO",
+        "address": "ул. Сатпаева 32",
+        "category": "Бары",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/shisha-go"
+    },
+    {
+        "title": "Хмель и Хлеб",
+        "address": "ул. Гоголя 73, (уг. ул. Кунаева)",
+        "category": "Бары",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/hmel-i-hleb"
+    },
+    {
+        "title": "Ресторан «Афиша»",
+        "address": "ул. Кабанбай батыра, 83, уг. ул. Панфилова",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/afisha"
+    },
+    {
+        "title": "The Coffee Point",
+        "address": "пр. Абылай хана 115",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/coffee-point"
+    },
+    {
+        "title": "Пейнтбольный клуб «Грозный»",
+        "address": "Карасайский район, пос. Абай, ул. Абая 3",
+        "category": "Клубы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/pejntbolnyj-klub-groznyj"
+    },
+    {
+        "title": "CoffeeTOP Espresso bar",
+        "address": "пр. Абылай хана 74, уг. ул. Гоголя",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/coffeetop-espresso-bar"
+    },
+    {
+        "title": "Y bar",
+        "address": "мкр. Самал-2, 104 (по ул. Бектурова)",
+        "category": "Бары",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/y-shisha-bar"
+    },
+    {
+        "title": "Ministry Of Karaoke",
+        "address": "БЦ Нурлы Тау, пр. Аль-Фараби 19, 19кБ",
+        "category": "Караоке",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/ministry-of-karaoke-2"
+    },
+    {
+        "title": "Цветочная компания Dildiny",
+        "address": "пр. Достык 89/2, (уг. ул. Жолдасбекова)",
+        "category": "Магазины",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/tsvetochnaya-kompaniya-dildiny"
+    },
+    {
+        "title": "Boss bar & karaoke",
+        "address": "пр. Назарбаева 76",
+        "category": "Бары",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/boss-bar-karaoke"
+    },
+    {
+        "title": "Кровавая Мэри",
+        "address": "мкр. Жетысу — 3, 25 блок А",
+        "category": "Квесты",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/krovavaya-meri"
+    },
+    {
+        "title": "Боулинг-центр Cosmo",
+        "address": "мкр. Самал-1, 2Б",
+        "category": "Развлечения (места)",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/bouling-tsentr-cosmo"
+    },
+    {
+        "title": "Магазин Hobby Games",
+        "address": "Grand Park, ул. Кабдолова 1/4",
+        "category": "Магазины",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/magazin-hobby-games"
+    },
+    {
+        "title": "Meloman Books",
+        "address": "ТРЦ «Mega Almaty», ул. Розыбакиева 247, 2 этаж",
+        "category": "Магазины",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/meloman-books"
+    },
+    {
+        "title": "Зал торжеств Ұлы Дала",
+        "address": "п.КазЦИК ул. Кисанова1",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/zal-torzhestv-ly-dala"
+    },
+    {
+        "title": "Книжный магазин Bouquiniste",
+        "address": "ул.Толе Би 49, уг. ул. Назарбаева",
+        "category": "Магазины",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/knizhnyj-magazin-bouquiniste"
+    },
+    {
+        "title": "Школа декораторов",
+        "address": "Студия «Верненская Мануфактура,» ул. Макатаева 127/3",
+        "category": "Школы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/shkola-dekoratorov"
+    },
+    {
+        "title": "У Камина",
+        "address": "5 мкр., 21 Абая-Правды",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/u-kamina"
+    },
+    {
+        "title": "Казахская государственная филармония им. Жамбыла",
+        "address": "Казахстан, Алматы, улица Калдаякова, 35",
+        "category": "Развлечения",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/filarmoniya-im-zhambyla"
+    },
+    {
+        "title": "Birge Almaty",
+        "address": "The hub coworking, ул. Тимирязева 28 В, 6 этаж.",
+        "category": "Школы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/birge-almaty"
+    },
+    {
+        "title": "Той Дәмі",
+        "address": "ул. Гоголя 129",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/toj-dami"
+    },
+    {
+        "title": "Ресторан \"Публика\"",
+        "address": "Ресторан \"Публика\", ул. Богенбай батыра 104",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/restoran-publika"
+    },
+    {
+        "title": "Ресторан Del Papa на пр. Достык",
+        "address": "пр. Достык 248",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/restoran-del-papa-na-pr-dostyk"
+    },
+    {
+        "title": "Shavlego",
+        "address": "ул. Наурызбай батыра 76",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/shavlego"
+    },
+    {
+        "title": "Oscar Cinema&Cafe",
+        "address": "Аксай-4,дом 90а",
+        "category": "Кинотеатры",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/oscar-cinema-amp-cafe"
+    },
+    {
+        "title": "Benazir-2",
+        "address": "пос. Каргалы, ул. Абая 100",
+        "category": "Развлечения (места)",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/benazir-2"
+    },
+    {
+        "title": "Pizza Grill",
+        "address": "пр. Абая 141/112",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/pizza-grill"
+    },
+    {
+        "title": "Сеть джелатерий \"Tutto Bene\"",
+        "address": "ТРЦ Mega Almaty, ул. Розыбакиева 247а",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/set-dzhelaterij-tutto-bene"
+    },
+    {
+        "title": "EuroDoner",
+        "address": "пр. Абылай хана 68",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/eurodoner"
+    },
+    {
+        "title": "El Cafe",
+        "address": "пр. Абая 68/74",
+        "category": "Кофейни",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/el-cafe"
+    },
+    {
+        "title": "The Teen's",
+        "address": "ул. Фурманова 53",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/the-teen-s"
+    },
+    {
+        "title": "Ресторан Lotus",
+        "address": "ул. Гоголя 8",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/restoran-lotus"
+    },
+    {
+        "title": "Hot Dogs Corner",
+        "address": "пр. Достык 42",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/hot-dogs-corner"
+    },
+    {
+        "title": "Ресторан \"Отау\"",
+        "address": "пр. Сейфуллина 14",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/restoran-otau"
+    },
+    {
+        "title": "Steak & Burger Restaurant PEPE",
+        "address": "пр. Абая 12",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/steak-burger-restaurant-pepe"
+    },
+    {
+        "title": "Just cafe",
+        "address": "ул. Богенбай Батыра 128",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/just-cafe"
+    },
+    {
+        "title": "Кафе \"Бродвей Бургер\"",
+        "address": "ул. Кабанбай батыра 83",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/kafe-brodvej-burger"
+    },
+    {
+        "title": "Дворец Торжеств \"Amure\"",
+        "address": "ул. Казыбек Би 43",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/dvorets-torzhestv-amure"
+    },
+    {
+        "title": "Ресторан «Шашлык Машлык»",
+        "address": "мкр. Таугуль 46/1",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/restoran-shashlyk-mashlyk"
+    },
+    {
+        "title": "Музкафе",
+        "address": "Казахстан, Алматы, проспект Абая, 117",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/muzkafe"
+    },
+    {
+        "title": "Территория вкусной еды Basilic на Шевченко",
+        "address": "ул. Шевченко 127",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/basilic-na-shevchenko"
+    },
+    {
+        "title": "Горный эко-курорт «Алма-Ата»",
+        "address": "Казахстан, Алматинская область, Талгарский район",
+        "category": "Загородный отдых",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/gornyj-eko-kurort-alma-ata"
+    },
+    {
+        "title": "Sky Hostel Almaty",
+        "address": "Sky Hostel Almaty, ул. Курмангазы 107",
+        "category": "Отели",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/sky-hostel-almaty"
+    },
+    {
+        "title": "D.O.M.",
+        "address": "пр. Достык 42",
+        "category": "Кофейни",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/d-o-m"
+    },
+    {
+        "title": "Квесты на Правде",
+        "address": "пр.Алтынсарина (уг. Абая) д.8 (вход с торца)",
+        "category": "Квесты",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/kvesty-na-pravde"
+    },
+    {
+        "title": "Алтын Аула",
+        "address": "ул.Татибекова 4А",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/altyn-aula"
+    },
+    {
+        "title": "Be In Art",
+        "address": "ул. Егизбаева 7/6,  ЖК \"Асыл Тау\" (вход с паркинга)",
+        "category": "Школы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/be-in-art"
+    },
+    {
+        "title": "Maranta Gusto",
+        "address": "ул. Желтоксан, 148",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/maranta-gusto"
+    },
+    {
+        "title": "Men's club \"Office\"",
+        "address": "ул. Фурманова, 130",
+        "category": "Клубы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/men-s-club-office"
+    },
+    {
+        "title": "Ultimate Karaoke",
+        "address": "ул. Макатаева 126",
+        "category": "Караоке",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/ultimate-karaoke"
+    },
+    {
+        "title": "Агайын",
+        "address": "мкр. Ай­на­бу­лак-4  д.172 Г",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/agajyn"
+    },
+    {
+        "title": "АльМинари",
+        "address": "ул. Розыбакиева 234,",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/alminari"
+    },
+    {
+        "title": "Государственный театр кукол",
+        "address": "ул. Пушкина 63",
+        "category": "Театры",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/gosudarstvennyj-teatr-kukol"
+    },
+    {
+        "title": "Voyage",
+        "address": "ул. Фурманова 97а",
+        "category": "Кафе и рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/voyage"
+    },
+    {
+        "title": "Voice",
+        "address": "ул. Макатаева, 81",
+        "category": "Бары",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/voice"
+    },
+    {
+        "title": "Ларисс Иванну Хачу",
+        "address": "ул. Жамбыла 77",
+        "category": "Бары",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/lariss-ivannu-hachu"
+    },
+    {
+        "title": "Beis Spa Hotel&Resort",
+        "address": "Казахстан, Алматы, улица Аманжол, 32",
+        "category": "Аквапарки и бассейны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/spa-tsentr-beis-club"
+    },
+    {
+        "title": "One2free",
+        "address": "ЖК «Керемет» дом 7, пом. 434",
+        "category": "Квесты",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/one2free"
+    },
+    {
+        "title": "Mebiuss Club",
+        "address": "Алматы, проспект Абая, 105",
+        "category": "Клубы",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/mebiuss-club"
+    },
+    {
+        "title": "Бочонок на Жандосова",
+        "address": "ул. Джандосова 40, уг. Жарокова",
+        "category": "Рестораны",
+        "minprice": "0",
+        "url": "https://sxodim.com/almaty/place/bochonok-na-zhandosova"
+    }
+]
